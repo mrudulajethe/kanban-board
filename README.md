@@ -10,7 +10,7 @@ The app is built with **React**, **TypeScript**, **Tailwind CSS**, **Supabase**,
 
 Add your deployed Vercel URL here:
 
-[Live App]([https://kanban-board-pink-gamma.vercel.app])
+[Live App](https://kanban-board-pink-gamma.vercel.app)
 
 ---
 
@@ -18,7 +18,7 @@ Add your deployed Vercel URL here:
 
 Add your GitHub repo URL here:
 
-[Repository]([https://github.com/mrudulajethe/kanban-board.git])
+[Repository](https://github.com/mrudulajethe/kanban-board.git)
 
 ---
 
