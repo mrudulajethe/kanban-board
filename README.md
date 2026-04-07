@@ -18,7 +18,7 @@ Add your deployed Vercel URL here:
 
 Add your GitHub repo URL here:
 
-[Repository](https://github.com/your-username/your-repo-name)
+[Repository]((https://github.com/mrudulajethe/kanban-board.git))
 
 ---
 
