@@ -5,7 +5,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 const taskSchema = z.object({
   title: z.string().min(1, "Title is required"),
   description: z.string().optional(),
-  priority: z.enum(["low", "normal", "high"]).default("normal"),
+  priority: z.enum(["low", "normal", "high"]),
   due_date: z.string().optional(),
 });
 
